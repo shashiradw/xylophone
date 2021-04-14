@@ -1,4 +1,4 @@
-# xylophones
+# xylophone
 
 Basic xylophone integrated with audioplayers 0.18.3  
 
